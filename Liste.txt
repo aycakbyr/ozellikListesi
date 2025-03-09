@@ -1,5 +1,5 @@
-Fotoğraf paylaşma
-Mesajlaşma
 Takipleşme
+Mesajlaşma
+Fotoğraf paylaşma
 Hikaye paylaşma
 Çıkartmalar
